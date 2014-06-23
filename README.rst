@@ -2,7 +2,7 @@
 Categorical Data Analysis in R
 ******************************
 
-2014-06-16 MLDM Monday.
+2014-06-23 MLDM Monday.
 
 授權 License
 ============
